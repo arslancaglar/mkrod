@@ -1,5 +1,5 @@
 # mkrod
-Dynamic Recursive Point Pattern Matching Algorithm for CBIR
+Dynamic Recursive Point Pattern Matching Algorithm for CBIR Systems.
 MK-RoD : Recursive Point Pattern Similarity Measure Algorithm (Matched Keypoints' Ratio of Distances)
 
 This dynamic recursive algorithm is designed for Content Based Image Retrieval systems.
