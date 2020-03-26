@@ -17,8 +17,6 @@ Please visit the official MATLAB File Exchange submission page.
 
 [![View Dynamic Recursive Point Pattern Matching Algorithm for CBIR on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/30447-dynamic-recursive-point-pattern-matching-algorithm-for-cbir)
 
-[![View Dynamic Recursive Point Pattern Matching Algorithm for CBIR on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/30447-dynamic-recursive-point-pattern-matching-algorithm-for-cbir)
-
 ## License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license (CC BY-NC-ND 4.0).
