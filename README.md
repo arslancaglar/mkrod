@@ -6,7 +6,7 @@ This dynamic recursive algorithm is designed for Content Based Image Retrieval s
 
 MK-RoD stands for Matched Keypoints' Ratio of Distances and it is a recursive and dynamic point pattern similarity measure algorithm which works in conjunction with Keypoint Generation algorithms
 
-For demonstration purposes, this program recognizes ASL input(query) images by comparing it with the database images and outputs the equivalent ASCII representation of it.
+For demonstration purposes, this program recognizes the Hand Gestures of American Sign Language (ASL) input(query) images by comparing it with the database images and outputs the equivalent ASCII representation of it.
 
 The algorithms are explaied inside the flow diagrams and every .m file is documented in detail.
 Open the 'Readme.txt' in order to learn how to execute the program.
